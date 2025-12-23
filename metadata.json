@@ -1,0 +1,5 @@
+{
+  "name": "Dimensionamento Elétrico NBR 5410",
+  "description": "Ferramenta para dimensionamento de eletrocalhas e eletrodutos conforme NBR 5410, com visualização de ocupação e memória de cálculo.",
+  "requestFramePermissions": []
+}
